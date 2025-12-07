@@ -6,7 +6,7 @@ A powerful, user-friendly web application designed to help users instantly estim
 *(Note: Don't forget to replace the image above with your actual screenshot!)*
 
 ## 🔗 Live Demo
-**[Click here to view the live calculator]((https://interactive-roi-quote-calculator-22rlveqdz.vercel.app/))**
+**[Click here to view the live calculator](https://interactive-roi-quote-calculator-22rlveqdz.vercel.app/)**
 
 ## 💡 Key Features
 * **Real-Time Calculations:** Updates instantly as you adjust input values.
