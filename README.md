@@ -3,7 +3,7 @@
 A powerful, user-friendly web application designed to help users instantly estimate costs and calculate Return on Investment (ROI).
 
 ![Project Screenshot](./demo.png)
-*(Note: Don't forget to replace the image above with your actual screenshot!)*
+
 
 ## 🔗 Live Demo
 **[Click here to view the live calculator](https://interactive-roi-quote-calculator-22rlveqdz.vercel.app/)**
