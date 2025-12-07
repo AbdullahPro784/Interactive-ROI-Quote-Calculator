@@ -2,7 +2,7 @@
 
 A powerful, user-friendly web application designed to help users instantly estimate costs and calculate Return on Investment (ROI).
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./demo.png)
 *(Note: Don't forget to replace the image above with your actual screenshot!)*
 
 ## 🔗 Live Demo
